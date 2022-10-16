@@ -40,10 +40,11 @@ tmp/
 *.bak
 *.swp
 *~.nib
-application.properties
+local.properties
 .settings/
 .loadpath
 .recommenders
+*.properties
 
 # External tool builders
 .externalToolBuilders/
